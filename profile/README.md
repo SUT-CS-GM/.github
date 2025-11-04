@@ -61,11 +61,21 @@ This organization hosts all official course materials, codebases, and project re
 ## Quick Links
 
 * **Course Website:** [**https://sut-cs-gm.github.io**](https://sut-cs-gm.github.io)
-* **Class Forum (TBD):** [**https://t.me/SUT_GM_4041**](https://t.me/SUT_GM_4041)
+* **Class Forum:** [**https://t.me/SUT_GM_4041**](https://t.me/SUT_GM_4041)
 
 ## Course Staff
 
 * **Instructor:** Dr. Fatemeh Seyyedsalehi
 * **Teaching Assistants (TAs):**
     * Maryam Rezaee (Head TA)
-    * list
+    * Firoozeh Abrishami
+    * Shaygan Adim
+    * Mohammad Ali Banayeeanzade
+    * Mahshid Dehghani
+    * Ali Salimi
+    * Mohammad Shirkhani
+    * Pooriya Safaei
+    * Amir Mohammad Fakhimi
+    * Sara Karimi
+    * Ramtin Moslemi
+    * Mohamad Hosein Mehdikhani
