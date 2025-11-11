@@ -61,7 +61,7 @@ This organization hosts all official course materials, codebases, and project re
 ## Quick Links
 
 * **Course Website:** [**https://sut-cs-gm.github.io**](https://sut-cs-gm.github.io)
-* **Class Forum:** [**https://t.me/SUT_GM_4041**](https://t.me/SUT_GM_4041)
+* **Class Forum:** [**https://telegram.me/SUT_GM_4041**](https://telegram.me/SUT_GM_4041)
 
 ## Course Staff
 
