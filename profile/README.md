@@ -35,9 +35,9 @@ This organization hosts all official course materials, codebases, and project re
 | 1404/8/6 | Autoregressive Models | **HW1** |
 | 1404/8/11 | VAEs | |
 | 1404/8/13 | VAEs | |
-| 1404/8/18 | Normalizing Flows - Invertible Models | |
+| 1404/8/18 | GANs | |
 | 1404/8/20 | GANs | |
-| 1404/8/25 | GANs | **HW2** |
+| 1404/8/25 | Normalizing Flows - Invertible Models | **HW2** |
 | 1404/8/27 | Energy Based Models | |
 | 1404/9/2 | Score Based Models and SDEs | |
 | 1404/9/4 | Score Based Models and SDEs | |
