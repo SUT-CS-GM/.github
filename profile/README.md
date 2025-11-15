@@ -41,7 +41,7 @@ This organization hosts all official course materials, codebases, and project re
 | 1404/8/27 | Energy Based Models | |
 | 1404/9/2 | Score Based Models and SDEs | |
 | 1404/9/4 | Score Based Models and SDEs | |
-| 1404/9/9 | Mid-term Exam | |
+| 1404/9/9 | Midterm Exam | |
 | 1404/9/11 | Flow Matching | **HW3** |
 | 1404/9/16 | Intro. to Diffusion Models | |
 | 1404/9/18 | Diffusion Models and ODE/Flows | |
